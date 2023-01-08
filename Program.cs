@@ -156,6 +156,7 @@ namespace ConsoleApp3
         public string Name;
         public string Description;
         public int Year;
+
         protected string _gameStudio;
         internal int MinAge;
         internal string TechnicalRequirements;
